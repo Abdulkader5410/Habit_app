@@ -1,2 +1,2 @@
-# E-commerc_app
+# Hapit_app
 Store to display products under categories 
